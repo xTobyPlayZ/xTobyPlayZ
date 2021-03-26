@@ -1,3 +1,3 @@
 - Howdy! I'm xTobyPlayZ and welcome to my GitHub page!
-- 👀 I’m interested in Python, C#, Java, and JavaScript
-- 🌱 I’m currently learning Python
+- 👀  I’m interested in Python, C#, Java, and JavaScript
+- 🌱  I’m currently learning Python
